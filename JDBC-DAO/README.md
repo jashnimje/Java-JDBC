@@ -1,6 +1,6 @@
-# Java JDBC
+# JDBC-DAO
 
-All Java and JDBC Projects are included in this repository.
+JDBC-DAO is an implementation of DAO in Java and JDBC Connection.
 
 ## Projects
 

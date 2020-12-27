@@ -1,6 +1,6 @@
-# Java JDBC
+# JDBC-Basic
 
-All Java and JDBC Projects are included in this repository.
+JDBC-Basic is a Basic Implementation of JDBC Connection in Java.
 
 ## Projects
 
