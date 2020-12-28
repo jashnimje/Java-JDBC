@@ -20,4 +20,4 @@ Please make sure to update tests as appropriate.
 
 ## Screenshot
 
-![College Records](/college-records.png?raw=true "College Records")
+![College Records](https://github.com/jashnimje/Java-JDBC/blob/main/college-records/college-records.png?raw=true "College Records")
