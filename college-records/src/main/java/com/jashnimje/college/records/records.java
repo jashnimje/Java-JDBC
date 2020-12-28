@@ -262,7 +262,7 @@ public class records extends javax.swing.JFrame {
     Connection conn;
     PreparedStatement insert;
     
-     private void table_update() {
+    private void table_update() {
         int CC;
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
@@ -278,7 +278,7 @@ public class records extends javax.swing.JFrame {
             while (rs.next()) {
                 Vector v2 = new Vector();
            
-                for (int ii = 1; ii <= CC; ii++) {
+                for (int i = 1; i <= CC; i++) {
                     v2.add(rs.getString("id"));
                     v2.add(rs.getString("name"));
                     v2.add(rs.getString("mobile"));
